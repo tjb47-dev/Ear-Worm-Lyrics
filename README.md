@@ -33,7 +33,7 @@ Project Manager = Austin McClarren
 ● Testing/Support = Everyone
 
 
-##Link to the original repo we commited to
+## Link to the original repo we commited to
 ● https://github.com/AustinMcClarren/ear-worm-lyrics
 
 
